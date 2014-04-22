@@ -1,9 +1,11 @@
 <?php
+
+/* These parameters must be specified in a web page */
     	define('DEBUG','0');
         define('ANO','2013');
         define('MES', '1');
-        define('CLIENTE','RBM');
 
+        define('CLIENTE','RBM');
         define('VERSION','V002');
         define('DBNAME', 'SAREN_COSTOS_RBM');
         define('VERSION_LOCAL','USA');              //ING o ESP

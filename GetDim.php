@@ -32,7 +32,7 @@
  * Definiciones y archivos a incluir
  */
 
-    include "GetDim_config.php";
+    include "config.php";
 	include "palo_connect.php";
 	include "GetDim_bfs.php";
 
